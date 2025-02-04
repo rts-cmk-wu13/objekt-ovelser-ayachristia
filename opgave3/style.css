@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+.student {
+  border: 1px solid grey;
+  border-radius: 20px;
+  width: 50%;
+  padding: 2em;
+  margin-bottom: 0.2rem;
+}
